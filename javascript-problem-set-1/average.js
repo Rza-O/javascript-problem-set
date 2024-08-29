@@ -8,4 +8,4 @@ var sum = mathResult + biologyResult + chemistryResult + physicsResult + banglaR
 var count = 5;
 var average = sum / count;
 
-console.log(sum);
+console.log(average.toFixed(2));
